@@ -1,5 +1,6 @@
 # Exercise 02
 
-Please import dbblog.sql database which is inside Exercise 02 folder.
+A simple blog with clean url.
+Please import dbblog.sql database.
 please use usename 'iffi@gmail.com' and password 'jarral' to get login in admin panel.
 
